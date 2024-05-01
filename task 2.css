@@ -1,0 +1,49 @@
+body {
+    font-family: Arisl, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #001b76;
+    color: #fff;
+    padding: 10px 20px;
+}
+header nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+header nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+section {
+    padding: 20px;
+}
+#hero {
+    background-image: url('https://www.petpractice.co.uk/img/pp-newbury-sky-replacement-1.jpg');
+    background-size: cover;
+    text-align: center;
+    color: #fff;
+    padding: 100px 0;
+}
+.cta {
+    display: inline-block;
+    background-color: #29a6ff;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+footer {
+    background-color: #001b76;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+    clear: both;
+}
